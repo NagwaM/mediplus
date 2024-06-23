@@ -45,8 +45,8 @@
                             <h1>We Provide <span>Medical</span> Services That You Can <span>Trust!</span></h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam. </p>
                             <div class="button">
-                                <a href="#" class="btn">Get Appointment</a>
-                                <a href="#" class="btn primary">Conatct Now</a>
+                                <a href="#" class="btn">{{ __('messages.getApp') }}</a>
+                                <a href="#" class="btn primary">{{ __('messages.contact_now') }}</a>
                             </div>
                         </div>
                     </div>

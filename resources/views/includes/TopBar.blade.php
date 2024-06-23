@@ -4,9 +4,9 @@
                 <div class="col-lg-6 col-md-5 col-12">
                     <!-- Contact -->
                     <ul class="top-link">
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Doctors</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">{{ __('messages.about') }}</a></li>
+                        <li><a href="#">{{ __('messages.doctors') }}</a></li>
+                        <li><a href="#">{{ __('messages.contact') }}</a></li>
                         <li><a href="#">FAQ</a></li>
                     </ul>
                     <!-- End Contact -->
